@@ -7,4 +7,6 @@ You can also longpress the message to share it in social networks.
 
 Most of the code was taken from google's chromecast examples, have a look yourself.
 
+Raydelto Hernandez contributed to this project
+
 You can download the app from google play [here](https://goo.gl/WfTI4y)
